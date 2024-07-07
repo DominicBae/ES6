@@ -10,7 +10,6 @@
 // 2번 문제
 // let name = "noona's fruit store";
 // let address = "Seoul";
-
 // console.log(`제 가게 이름은 ${name}입니다. 위치는 ${address}에 있습니다.`)
 
 
@@ -80,5 +79,4 @@
 //     const addNumber = a => b => c => a + b + c;
 //     return addNumber(1)(2)(3);
 //   };
-  
 //   console.log(sumNumber());  
